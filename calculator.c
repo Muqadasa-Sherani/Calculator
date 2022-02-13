@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
+/**
+ *
+ * @author MUQADASA SHERANI
+ */
 
 int main() {
 	double num1, num2, result = 0;
